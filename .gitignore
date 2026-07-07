@@ -1,0 +1,3 @@
+# IDE and temporary files
+.gemini/
+*.log
